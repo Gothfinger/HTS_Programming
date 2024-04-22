@@ -16,9 +16,9 @@ Inspect the copied string, as you can see hackthissite also expect this unique c
 
 It's probably possible to somehow add this to wget but not sure how to, since you first have to visit the page - get the cookie - then parse it out and insert it into your next command where you visit again with the username & password.
 
-**How I did it**
-1, Run extract_cookies.sh > cookies.txt (Make sure you have the same cookie in firefox as in this extracted file)
-2, Run prog11.sh (http seems to work better than https) 
+**How I did it** <br />
+1, Run extract_cookies.sh > cookies.txt (Make sure you have the same cookie in firefox as in this extracted file) <br />
+2, Run prog11.sh (http seems to work better than https) <br />
 
 
 
