@@ -18,7 +18,8 @@ It's probably possible to somehow add this to wget but not sure how to, since yo
 
 **How I did it** <br />
 1, Run extract_cookies.sh > cookies.txt (Make sure you have the same cookie in firefox as in this extracted file) <br />
-2, Run prog11.sh (http seems to work better than https) <br />
+2, Login in firefox to that specific page <br />
+3, Run prog11.sh (http seems to work better than https) Try it a few times quickly after another since the 3 second timer might have gone over. <br />
 
 
 
