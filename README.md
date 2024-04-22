@@ -1,9 +1,10 @@
 ### Prog1
 
 Scuffed, but it works. Take the html source manually and put into script. <br />
+
 1, First create the wordlist which contains pair-value keys. <br />
---> A_parse_wordlist.sh<br />
---> B_KeyValuePair.sh<br />
+    --> A_parse_wordlist.sh<br />
+    --> B_KeyValuePair.sh<br />
 2, Use the Mainscript<br />
 
 Can be cleaned up and made to look nicer into one single script probably
